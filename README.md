@@ -8,7 +8,7 @@ is a living artefact which will be adjusted and further developed over time.
 
 ## Description
 
-The following projects were developed in the corresponding order
+The following projects were developed in the corresponding order      
 1.[Flight Delay analysis](https://github.com/julienboth/udacity_ds_nd/tree/main/project_1_intro_to_ds)
 
 
@@ -17,12 +17,12 @@ The following projects were developed in the corresponding order
  To open the notebook you need to have a notebook reader like jupyter notebooks
   and Python installed 
 
-The following libraries where used for Project 1
-Python: 3.9.7
-Matplotlib: 3.6.2
-Pandas: 1.3.5
-Numpy: 1.22.0
-Seaborn: 0.12.1
+The following libraries where used for Project 1       
+Python: 3.9.7       
+Matplotlib: 3.6.2     
+Pandas: 1.3.5     
+Numpy: 1.22.0    
+Seaborn: 0.12.1    
 
 ## Authors
 
