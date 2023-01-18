@@ -9,8 +9,7 @@ is a living artefact which will be adjusted and further developed over time.
 ## Description
 
 The following projects were developed in the corresponding order      
-1.[Flight Delay analysis](https://github.com/julienboth/udacity_ds_nd/tree/main/project_1_intro_to_ds)
-
+1.[Flight Delay analysis](https://github.com/julienboth/udacity_ds_nd/tree/main/project_1_intro_to_ds) — Medium Blogpost: [Link](https://medium.com/@julienboth/how-to-reduce-your-risk-of-idle-time-because-of-delayed-flights-d6da2fffd92)
 
 ### Dependencies
 
